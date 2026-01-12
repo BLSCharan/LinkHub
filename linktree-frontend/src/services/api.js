@@ -1,4 +1,5 @@
-const API = "http://localhost:5000/api";
+const API ="https://linkhub-prsj.onrender.com/api";
+
 
 /* ---------------- AUTH ---------------- */
 
