@@ -54,11 +54,6 @@ export default function Landing() {
 </section>
 
 
-
-
-
-
-
       {/* FEATURE CARDS */}
       <HeroCards />
 
